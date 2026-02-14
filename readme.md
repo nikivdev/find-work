@@ -99,6 +99,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Py Jobs](http://www.pyjobs.xyz/) - Search and post Python jobs all over the globe.
 - [Free Python Job Board](http://pythonjobs.github.io/)
+- [Python Devs](https://www.pythondevs.net)
 
 ### Rust
 
