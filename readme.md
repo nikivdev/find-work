@@ -35,6 +35,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Awesome CV](https://github.com/posquit0/Awesome-CV) - Great LaTeX template.
 - [Deedy Resume](https://github.com/deedy/Deedy-Resume)
+- [JobSprout](https://jobsprout.ai) - AI CV and cover letter builder with Typst templates.
 
 ## Find work
 
