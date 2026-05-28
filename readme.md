@@ -15,6 +15,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
   - [Rust](#rust)
   - [Haskell](#haskell)
 - [Find work by country](#find-work-by-country)
+  - [Canada](#canada)
   - [Netherlands](#netherlands)
   - [Germany](#germany)
   - [Japan](#japan)
@@ -110,6 +111,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Haskell companies](https://github.com/erkmos/haskell-companies) - Curated list of companies using Haskell in industry.
 
 ## Find work by country
+
+### Canada
+
+- [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/) - Daily-updated Canadian student and recent-grad software jobs across internships, co-ops, new grad, junior, and entry-level roles.
 
 ### Netherlands
 
