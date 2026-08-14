@@ -90,6 +90,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Go Jobs & Developers](https://www.golangprojects.com)
 - [Stack overflow: Jobs using Go](https://stackoverflow.com/jobs/developer-jobs-using-go?med=site-ui&ref=tag-page_go)
 
+### JavaScript
+
+- [Jobs in JavaScript](https://jobsinjs.com/) - JavaScript, TypeScript and Node.js roles, refreshed daily.
+
 ### React
 
 - [Reactiflux Jobs](http://jobs.reactiflux.com/)
