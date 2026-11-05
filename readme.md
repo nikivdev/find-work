@@ -35,6 +35,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Awesome CV](https://github.com/posquit0/Awesome-CV) - Great LaTeX template.
 - [Deedy Resume](https://github.com/deedy/Deedy-Resume)
+- [JobEmerge](https://www.jobemerge.work) - Freemium job-fit test, resume translator, and Markdown resume editor.
 
 ## Find work
 
@@ -142,3 +143,4 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+
