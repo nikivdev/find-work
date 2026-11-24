@@ -50,6 +50,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Unicorn Hunt](https://unicornhunt.io/)
 - [Relocate me](https://relocate.me/)
 - [Landing Jobs](https://landing.jobs/)
+- [EuroJobs.ai](https://eurojobs.ai) - 28,000+ IT jobs across Europe aggregated hourly from employer career pages (Greenhouse, Lever, Ashby, Workable). Filters for country, remote, visa sponsorship and English-speaking teams.
 - [Remote OK](https://remoteok.io)
 - [Indeed](https://www.indeed.com)
 - [Loom](http://www.loom.co/) - Connecting companies and top freelancers.
